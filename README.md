@@ -14,7 +14,7 @@
 | 2  | 18.09.2025 | [Разнообразие, строение и методы исследования белков](https://github.com/Gressy2113/MolMod_2025/blob/main/Lectures/2-%D0%A7%D1%83%D0%B3%D1%83%D0%BD%D0%BE%D0%B2.%D0%9C%D0%A4%D0%A2%D0%98%20-%20%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0.2023-09-21.pdf)                                                             |
 | 3  | 02.10.2025 | [Биоинформатика: «текстовая» и «структурная». Базы данных](https://github.com/Gressy2113/MolMod_2025/blob/main/Lectures/3-%D0%A7%D1%83%D0%B3%D1%83%D0%BD%D0%BE%D0%B2.%D0%9C%D0%A4%D0%A2%D0%98%20-%20%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.2025-10-02.pdf)                                                                            |
 | 4  | 16.10.2025 | [Предсказание структуры белков на основе гомологии](https://github.com/Gressy2113/MolMod_2025/blob/main/Lectures/4-%D0%A7%D1%83%D0%B3%D1%83%D0%BD%D0%BE%D0%B2.%D0%9C%D0%A4%D0%A2%D0%98%20-%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D0%B3%D0%BE%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.2023-10-19.pdf) |
-| 5  | 30.10.2025 | Компьютерный докинг и виртуальный скрининг молекулярных баз данных                                                                                                                                                                                                                                                                                |
+| 5  | 30.10.2025 | [Компьютерный докинг и виртуальный скрининг молекулярных баз данных](https://github.com/Gressy2113/MolMod_2025/blob/main/Lectures/5-%D0%A7%D1%83%D0%B3%D1%83%D0%BD%D0%BE%D0%B2.%D0%9C%D0%A4%D0%A2%D0%98-%D0%94%D0%BE%D0%BA%D0%B8%D0%BD%D0%B3.2023-11-02.pdf)                                                                                         |
 
 # Практикумы
 
@@ -29,7 +29,7 @@
 | 2  | 25.09.2025 | [Структура аминокислот и белков в PyMOL.](https://github.com/Gressy2113/MolMod_2025/blob/main/Seminars/Seminar2/Seminar2.ipynb)                                                                                                                                         |
 | 3  | 09.10.2025 | [Текстовая биоинформатика. Работа с последовательностями. Базы данных, выравнивание, филогенетические деревья](https://github.com/Gressy2113/MolMod_2025/blob/main/Seminars/Seminar3/Seminar3.ipynb) |
 | 4  | 23.10.2025 | [Методы предсказания структуры белков](https://github.com/Gressy2113/MolMod_2025/blob/main/Seminars/Seminar4/Seminar4.ipynb)                                                                                                                                       |
-| 5  | 06.11.2025 | Молекулярный докинг                                                                                                                                                                                                                                                            |
+| 5  | 06.11.2025 | [Молекулярный докинг](https://github.com/Gressy2113/MolMod_2025/blob/main/Seminars/Seminar5/Seminar5.ipynb)                                                                                                                                                                       |
 
 # Домашние задания
 
